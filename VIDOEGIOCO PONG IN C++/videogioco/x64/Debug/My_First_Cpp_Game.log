@@ -1,0 +1,17 @@
+﻿  win32_platform.cpp
+C:\Users\mbarv\OneDrive\Desktop\pong_learn_programming-master\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(57,9): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'win32_platform.cpp')
+  
+C:\Users\mbarv\OneDrive\Desktop\pong_learn_programming-master\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(58,9): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'win32_platform.cpp')
+  
+C:\Users\mbarv\OneDrive\Desktop\pong_learn_programming-master\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(59,9): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'win32_platform.cpp')
+  
+C:\Users\mbarv\OneDrive\Desktop\pong_learn_programming-master\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(60,9): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'win32_platform.cpp')
+  
+C:\Users\mbarv\OneDrive\Desktop\pong_learn_programming-master\pong_learn_programming-master\My_First_Cpp_Game\game.cpp(140,41): warning C4305: 'argomento': troncamento da 'double' a 'float'
+  (compilazione del file di origine 'win32_platform.cpp')
+  
+  My_First_Cpp_Game.vcxproj -> C:\Users\mbarv\OneDrive\Desktop\pong_learn_programming-master\pong_learn_programming-master\x64\Debug\My_First_Cpp_Game.exe
